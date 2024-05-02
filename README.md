@@ -1,4 +1,4 @@
-# <div align="center">🟣 Hi, this is a project Développeur Full-stack | Social links profile [look here](https://alexnesvit.github.io/Solar/) 🟣</div>
+# <div align="center">🟣 Hi, this is a project Développeur Full-stack | Social links profile [look here](https://alexnesvit.github.io/Personal-Card/) 🟣</div>
 
 ----
 
@@ -20,5 +20,5 @@
 ----
 
 
-## Website [Alex NESVIT](https://github.com/AlexNesvit)
+## Website [Alex NESVIT](https://alexnesvit.github.io/Personal-Card/)
 
