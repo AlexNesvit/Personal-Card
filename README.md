@@ -1,4 +1,4 @@
-# <div align="center">🟣 Hi, this is a project Développeur Full-stack | Social links profile [look here](https://alexnesvit.github.io/Personal-Card/) 🟣</div>
+# <div align="center">🟣 Hi, this is a project Personal Card Développeur Full-stack [look here](https://alexnesvit.github.io/Personal-Card/) 🟣</div>
 
 ----
 
