@@ -19,5 +19,5 @@
 
 ----
 
-## <div align="center">Website [Alex NESVIT](https://alexnesvit.github.io/Personal-Card/)</div>
+## <div align="center">Website [Personal Card](https://alexnesvit.github.io/Personal-Card/)</div>
 
