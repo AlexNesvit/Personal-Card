@@ -29,6 +29,10 @@ body {
   padding: 2rem;
 }
 
+.card__image {
+  position: relative; /* добавляем, чтобы позиционировать круг относительно изображения */
+}
+
 .card__image img {
   display: block;
   max-width: 100%;
@@ -36,6 +40,31 @@ body {
   border-radius: 50%;
   width: 7rem;
   height: 7rem;
+  border: .2rem solid var(--green);
+  position: relative;
+  z-index: 2; /* чтобы картинка была выше круга */
+}
+
+.card__image .circle-spin {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%) rotate(0);
+  width: 8rem; /* немного больше чем изображение */
+  height: 8rem;
+  border-radius: 50%;
+  border-top: .2rem solid var(--dark-grey);
+  border-bottom: .2rem solid var(--dark-grey);
+  border-left: .2rem solid var(--green);
+  border-right: .2rem solid var(--green);
+  animation: aboutSpinner 8s linear infinite;
+  z-index: 1; /* гарантируем, что круг будет под изображением */
+}
+
+@keyframes aboutSpinner {
+  100% { 
+      transform: translate(-50%, -50%) rotate(360deg);
+  }
 }
 
 .card .card__details {
