@@ -26,6 +26,7 @@ body {
 .card {
   background-color: var(--dark-grey);
   border-radius: 1rem;
+  border: 0.5mm solid var(--green);
   padding: 2rem;
 }
 
@@ -101,6 +102,7 @@ body {
   background-color: var(--grey);
   border-radius: 0.5rem;
   font-weight: 700;
+  border: 0.5mm solid var(--green);
 }
 
 .card li > a:hover,
