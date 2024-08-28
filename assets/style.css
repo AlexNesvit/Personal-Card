@@ -138,7 +138,7 @@ body {
 }
 
 .qr-code img {
-  width: 150px; /* Размер по умолчанию */
+  width: 130px; /* Размер по умолчанию */
   height: auto;
   border-radius: 0.5rem;
   border: 0.5mm solid var(--green);
@@ -161,6 +161,6 @@ body {
 /* Адаптив для мобильных устройств */
 @media screen and (max-width: 767px) {
   .qr-code img {
-      width: 100px; /* Размер для мобильных телефонов */
+      width: 180px; /* Размер для мобильных телефонов */
   }
 }
