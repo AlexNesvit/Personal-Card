@@ -131,3 +131,15 @@ body {
     padding: 8rem 1rem;
   }
 }
+
+.qr-code {
+  margin-top: 1rem;
+  text-align: center;
+}
+
+.qr-code img {
+  width: 150px; /* Задай размер QR-кода по необходимости */
+  height: auto;
+  border-radius: 0.5rem;
+  border: 0.5mm solid var(--green);
+}
