@@ -164,3 +164,10 @@ body {
       width: 180px; /* Размер для мобильных телефонов */
   }
 }
+
+/* Специально для iPhone/Safari */
+@supports (-webkit-touch-callout: none) {
+  .qr-code img {
+      width: 200px; /* Сделать QR-код больше на iPhone */
+  }
+}
