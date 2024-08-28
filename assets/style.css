@@ -138,8 +138,29 @@ body {
 }
 
 .qr-code img {
-  width: 150px; /* Задай размер QR-кода по необходимости */
+  width: 150px; /* Размер по умолчанию */
   height: auto;
   border-radius: 0.5rem;
   border: 0.5mm solid var(--green);
+}
+
+/* Адаптив для экранов 768px и больше */
+@media screen and (min-width: 768px) {
+  .qr-code img {
+      width: 150px; /* Размер для планшетов и небольших экранов */
+  }
+}
+
+/* Адаптив для экранов 1440px и больше */
+@media screen and (min-width: 1440px) {
+  .qr-code img {
+      width: 200px; /* Размер для больших экранов */
+  }
+}
+
+/* Адаптив для мобильных устройств */
+@media screen and (max-width: 767px) {
+  .qr-code img {
+      width: 100px; /* Размер для мобильных телефонов */
+  }
 }
