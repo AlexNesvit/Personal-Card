@@ -2,14 +2,19 @@
 
 ----
 
+### <div align="center">🚀 Clean and responsive design. Easy to customize. Ready to use. Built with HTML, CSS, CSS Grid, README.md .</div>
+
+----
+
 ### <div align="center">I created it using skills such as HTML, CSS, CSS Grid, README.md markdown, Mobile-adapt</div>
 
 ----
 
-## <div align="center">To download, copy the project by clicking "Fork"</div>
+## <div align="center">You can download this project by clicking “Fork” and customize it as you want.</div>
 
 ----
 
+## <div align="center">If this project helped you or saved your time, you can support me 🙌. It really motivates me to create more useful projects like this.</div>
 
 ## <div align="center">☕ Support Me
 <p>
@@ -20,4 +25,8 @@
 ----
 
 ## <div align="center">Website [Personal Card](https://alexnesvit.github.io/Personal-Card/)</div>
+
+----
+
+## <div align="center">❤️ Thank you for your support!</div>
 
