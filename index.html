@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
-  <meta name="description" content="Alex NESVIT, Développeur Fullstack basé à La Ciotat, France. Découvrez son portfolio, GitHub, LinkedIn et téléchargez son CV. Expertise en PHP, JavaScript et technologies web modernes.">
+  <meta name="description" content="Alex NESVIT, Concepteur Développeur Fullstack PHP/Laravel à La Ciotat. Web Planet Studio, portfolio, GitHub, LinkedIn et CV.">
   <!-- Favicon -->
   <link rel="icon" type="image/png" sizes="32x32" href="assets/images/faviconDev.jpg" />
   <!-- Google fonts -->
@@ -13,7 +13,7 @@
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet" />
   <link rel="stylesheet" href="assets/style.css" />
 
-  <title>Développeur Fullstack | Social links profile</title>
+  <title>Alex NESVIT | Concepteur Développeur Fullstack PHP/Laravel</title>
 
 </head>
 <body>
@@ -21,22 +21,23 @@
     <div class="card">
       <div class="card__header">
         <div class="card__image">
-          <img src="assets/images/montage.jpg" alt="avatar Alex NESVIT, Développeur Fullstack basé à La Ciotat, France. Découvrez son portfolio, GitHub, LinkedIn et téléchargez son CV. Expertise en PHP, JavaScript et technologies web modernes." />
+          <img src="assets/images/montage.jpg" alt="Avatar Alex NESVIT, Concepteur Développeur Fullstack PHP/Laravel à La Ciotat." />
           <span class="circle-spin"></span>
         </div>
         <div class="card__details">
           <h1>Alex NESVIT</h1>
           <p>La Ciotat, France</p>
         </div>
-        <p class="card__quote">"Développeur Fullstack"</p>
+        <p class="card__quote">"Concepteur Développeur Fullstack"</p>
+        <p class="card__stack">PHP · Laravel · Vue.js · React · APIs · SQL · IA</p>
       </div>
       <div class="card__body">
         <ul>
-          <li><a href="https://web-planet.net" target="_blank">Site Internet</a></li>
-          <li><a href="https://github.com/AlexNesvit" target="_blank">GitHub</a></li>
-          <li><a href="https://alexnesvit.github.io/portfolio/" target="_blank">Portfolio</a></li>
-          <li><a href="https://www.linkedin.com/in/alexnesvit/" target="_blank">LinkedIn</a></li>
-          <li><a href="https://www.youtube.com/@MetlaAlex" target="_blank">Youtube</a></li>
+          <li><a href="https://web-planet.net" target="_blank" rel="noopener">Web Planet Studio</a></li>
+          <li><a href="https://github.com/AlexNesvit" target="_blank" rel="noopener">GitHub</a></li>
+          <li><a href="https://alexnesvit.github.io/portfolio/" target="_blank" rel="noopener">Portfolio</a></li>
+          <li><a href="https://www.linkedin.com/in/alexnesvit/" target="_blank" rel="noopener">LinkedIn</a></li>
+          <li><a href="https://www.youtube.com/@MetlaAlex" target="_blank" rel="noopener">Youtube</a></li>
           <li><a href="assets/images/CV_Concepteur_Fullstack_Alex_NESVIT.pdf" target="_blank">CV Alex NESVIT</a></li>
         </ul>
       </div>
@@ -44,11 +45,14 @@
   </main>
   <footer class="attribution">
     <p>
-      Copyright © 2024 by <a href="https://card.alexnesvit.com/">Alex NESVIT</a> | All Rights Reserved.
+      Copyright © 2022–<span id="current-year">2026</span> by <a href="https://github.com/AlexNesvit/" target="_blank" rel="noopener">Alex NESVIT</a> | All Rights Reserved.
     </p>
     <div class="qr-code">
       <img src="assets/images/frame4.png" alt="QR code to website">
   </div>
   </footer>
+  <script>
+    document.getElementById("current-year").textContent = new Date().getFullYear();
+  </script>
 </body>
 </html>

@@ -69,7 +69,7 @@ body {
 }
 
 .card .card__details {
-  padding: 1rem;
+  padding: 1rem 1rem 0.65rem;
 }
 
 .card .card__details h1 {
@@ -84,8 +84,22 @@ body {
 }
 
 .card .card__quote {
-  padding: 0.5rem;
+  padding: 0.2rem 0.5rem 0.35rem;
+  font-size: clamp(0.86rem, 3.7vw, 1.08rem);
+  font-weight: 700;
+  white-space: nowrap;
 }
+
+.card .card__stack {
+  max-width: 100%;
+  margin: 0 auto;
+  color: var(--green);
+  font-size: clamp(0.72rem, 2.7vw, 0.875rem);
+  font-weight: 600;
+  line-height: 1.5;
+  white-space: nowrap;
+}
+
 .card ul {
   list-style: none;
 }
