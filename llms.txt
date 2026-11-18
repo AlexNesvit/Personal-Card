@@ -1,0 +1,19 @@
+# Alex NESVIT
+
+> Carte de visite professionnelle d’Alex NESVIT, fondateur de Web Planet Studio et développeur Full-Stack à La Ciotat, France.
+
+## Profil
+
+Compétences présentées sur cette carte : PHP, Laravel, React, Vue.js, SaaS, intelligence artificielle et automatisation.
+Cette page rassemble ses liens professionnels, ses projets et son CV. Elle ne présente ni tarifs, ni disponibilité, ni résultats clients.
+
+## Pages et profils officiels
+
+- [Carte de visite](https://card.web-planet.net/) : page de référence de cette présentation.
+- [Web Planet Studio](https://web-planet.net/) : site du studio fondé par Alex NESVIT.
+- [LeadFlow](https://leadflow.web-planet.net/) : plateforme SaaS B2B présentée sur la carte.
+- [Portfolio](https://alexnesvit.github.io/portfolio/) : portfolio professionnel.
+- [GitHub](https://github.com/AlexNesvit) : profil de développement.
+- [LinkedIn](https://www.linkedin.com/in/alexnesvit/) : profil professionnel.
+- [YouTube](https://www.youtube.com/@MetlaAlex) : chaîne liée depuis la carte.
+- [CV](https://card.web-planet.net/assets/images/CV_2026-06-22_Alex_NESVIT.pdf) : CV actuellement lié depuis la carte, fichier daté du 22 juin 2026.
