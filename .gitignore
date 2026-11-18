@@ -4,3 +4,5 @@
 *.xd
 .DS_Store
 .prettierignore
+.playwright-cli/
+output/playwright/
